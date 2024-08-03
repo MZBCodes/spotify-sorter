@@ -1,0 +1,22 @@
+{
+  "name": "spotifysorter",
+  "version": "1.0.0",
+  "description": "This is a desktop application written in Electron that connects to the Spotify API that goes through your \"Liked songs\" or another playlist and allows you to sort them into other playlists that you have.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MZBCodes/spotify-sorter.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "MZBCodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MZBCodes/spotify-sorter/issues"
+  },
+  "homepage": "https://github.com/MZBCodes/spotify-sorter#readme"
+}
